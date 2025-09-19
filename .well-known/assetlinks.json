@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.starshipone",
+      "sha256_cert_fingerprints":
+      ["8D:0B:CF:46:84:CF:76:44:CB:F2:BC:FB:E6:8F:1C:6A:F3:DC:EC:4E:FA:83:48:C2:88:5A:9F:AF:10:5B:61:BF"]
+    }
+}]
