@@ -1,0 +1,23 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [
+                    "5ZM95AV436.com.starshipone"
+                ],
+                "paths": [
+                    "/*"
+                ],
+                "components": [
+                    {"/": "/*"}
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "5ZM95AV436.com.starshipone"
+        ]
+    }
+}
